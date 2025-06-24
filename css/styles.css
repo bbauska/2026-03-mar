@@ -1,11 +1,10 @@
 <!-- css/styles.css of 2026-mar.bauska.org -->
+<!-- was: font-family:'Bradley Hand', cursive, 'OCR A Std', monospace, Helvetica; -->
 body {
-  font-family:Helvetica;
+  font-family:Helvetica, 'Bradley Hand'; cursive, 'OCR A Std', monospace;
 }
 table {
   table-layout:fixed;
-  margin-right: auto;
-  margin-left: auto; 
   width:70%; 
 }
 .month-header {
@@ -51,16 +50,15 @@ h1 {
   text-align:left;
   vertical-align:top;
 }
-
 .off-day {
   background-color:#ddd;  /* very light gray */
 }
 
 ul {
-    font-size:75%;
-    list-style:none;
-    padding-left:20px;
-    padding-right:5px;
+  font-size:75%;
+  list-style:none;
+  padding-left:20px;
+  padding-right:5px;
 }
 
 .event {
