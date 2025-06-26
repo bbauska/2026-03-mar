@@ -1,4 +1,4 @@
-<!-- css/styles.css of 2026-mar.bauska.org -->
+<!-- css/styles.css of 2026-03-mar.bauska.org making 2026-mar.bauska.org -->
 <!-- was: font-family:'Bradley Hand', cursive, 'OCR A Std', monospace, Helvetica; -->
 body {
   font-family:Helvetica, 'Bradley Hand'; cursive, 'OCR A Std', monospace;
@@ -108,8 +108,14 @@ a:hover::after {
 .zero-descrimination {
     background-color:#ff80bf;  /* very light pink */
 }
-.world-wildlife {
+.read-across-america {
     background-color:#ffa500;  /* orange */
+}
+.holi {
+    background-color:#ffa500;  /* orange */
+}
+.employee-apprec {
+    background-color:#98fb98;  /* very soft lime green */
 }
 .natl-oreo {
     background-color:#bfff80;  /* very light green */
@@ -120,7 +126,7 @@ a:hover::after {
 .intl-womens {
     background-color:#98fb98;  /* very soft lime green */
 }
-.daylight-savings {
+.natl-napping {
     background-color:#a6f4ff;  /* pale cyan */
 }
 .mario {
@@ -129,18 +135,48 @@ a:hover::after {
 .world-kidney {
     background-color:#ff9a9a;  /* pale red */
 }
+.world-sleep {
+    background-color:#a4a4ff;  /* pale blue */
+}
 .pi {
     background-color:#d3d3d3;  /* light gray */
 }
 .consumer-rights {
     background-color:#00ff00;  /* dark green */
 }
-.spring {
+.st-patricks {
+    background-color:#c2ff4d;  /* light green */
+}
+.intl-happiness {
     background-color:#a4a4ff;  /* pale blue */
 }
-.veterans {
+.intl-forests {
+    background-color:#00ff00;  /* dark green */
+}
+.world-poetry {
+    background-color:#bfff80;  /* very light green */
+}
+.world-water {
+    background-color:#a4a4ff;  /* pale blue */
+}
+.world-puppy {
+    background-color:#ffa500;  /* orange */
+}
+.intl-waffle {
+    background-color:#d3d3d3;  /* light gray */
+}
+.world-theatre {
+    background-color:#ff9a9a;  /* pale red */
+}
+.vietnam-war-vet {
     background-color:#ccff9a;  /* pale green */
 }
-.chavez {
+.palm-sunday {
+    background-color:#ffc0cb;  /* very pale red (pink) */
+}
+.world-bipolar {
+    background-color:#d3d3d3;  /* light gray */
+}
+.cesar-chavez {
     background-color:#c2ff4d;  /* light green */
 }
