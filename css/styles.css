@@ -1,4 +1,4 @@
-<!-- css/styles.css of 2026-mar.bauska.org -->
+<!-- css/styles.css of github 2026-03-mar.bauska.org making 2026-mar.bauska.org -->
 <!-- was: font-family:'Bradley Hand', cursive, 'OCR A Std', monospace, Helvetica; -->
 body {
   font-family:Helvetica, 'Bradley Hand'; cursive, 'OCR A Std', monospace;
@@ -7,8 +7,9 @@ table {
   table-layout:fixed;
   width:70%; 
 }
-.month-header {
-  background-image:url("https://2026-mar.bauska.org/images/July-2-2024-kitty-600.png");
+<!--  background-image:url("https://2026-03-mar.bauska.org/images/Silus5thirsty,jpg");  -->
+.month-header 
+  background-image:url("https://github.com/bbauska/2026-03-mar/blob/main/images/Silus5thirsty.jpg?raw=true");
   background-position:center center;
   background-repeat:no-repeat;
   background-size:cover;
@@ -105,6 +106,9 @@ a:hover::after {
 }
 
 <!-- World, National & International Days -->
+.zero-desc {
+    background-color:#ff80bf;  /* very light pink */
+}
 .zero-descrimination {
     background-color:#ff80bf;  /* very light pink */
 }
