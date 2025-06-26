@@ -7,9 +7,8 @@ table {
   table-layout:fixed;
   width:70%; 
 }
-<!--  background-image:url("https://2026-03-mar.bauska.org/images/Silus5thirsty,jpg");  -->
 .month-header 
-  background-image:url("https://github.com/bbauska/2026-03-mar/blob/main/images/Silus5thirsty.jpg?raw=true");
+  background-image:url("https://2026-03-mar/images/Silus5thirsty.jpg");
   background-position:center center;
   background-repeat:no-repeat;
   background-size:cover;
