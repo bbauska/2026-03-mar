@@ -1,5 +1,6 @@
-<!-- css/styles.css of github 2026-03-mar.bauska.org making 2026-mar.bauska.org -->
-<!-- was: font-family:'Bradley Hand', cursive, 'OCR A Std', monospace, Helvetica; -->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~ css/styles.css of github 2026-03-mar.bauska.org making 2026-mar.bauska.org ~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 body {
   font-family:Helvetica, 'Bradley Hand'; cursive, 'OCR A Std', monospace;
 }
@@ -26,7 +27,6 @@ h1 {
   text-shadow:-1px 0 #000, 0 1px #000, 1px 0 #000, 0 -1px #000;
   vertical-align:top;
 }
-/* padding-bottom:150px; */
 .copyright-notice {
   color:#fff;
   font-size:50%;
@@ -62,10 +62,10 @@ ul {
 }
 
 .event {
-    border-radius:5px;
-    color:#10171c;  /* very dark (mostly black) blue */
-    padding:5px;
-    margin:5px 0;
+  border-radius:5px;
+  color:#10171c;  /* very dark (mostly black) blue */
+  padding:5px;
+  margin:5px 0;
 }
 <!-- added 6-10-25 5:08pm -->
 .container {
