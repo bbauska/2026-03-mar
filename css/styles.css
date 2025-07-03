@@ -6,6 +6,8 @@ body {
 }
 table {
   table-layout:fixed;
+  margin-right: auto;
+  margin-left: auto; 
   width:70%; 
 }
 .month-header 
@@ -50,6 +52,7 @@ h1 {
   text-align:left;
   vertical-align:top;
 }
+
 .off-day {
   background-color:#ddd;  /* very light gray */
 }
@@ -67,7 +70,7 @@ ul {
   padding:5px;
   margin:5px 0;
 }
-<!-- added 6-10-25 5:08pm -->
+
 .container {
   background-color: #ffffff;  /* white */
   border: 2px solid #dcdcdc;  /* very light gray */
@@ -82,7 +85,7 @@ a {
   color: #4169e1;  /* royalblue */
   text-decoration: none;
   position: relative;
-  padding-right:50px;  /* 6-23-2025 */
+  padding-right:50px;
   font-family: Helvetica, Arial, sans-serif;
   transition: color 0.3s ease-in-out;
 }
