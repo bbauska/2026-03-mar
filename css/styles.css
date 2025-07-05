@@ -102,7 +102,7 @@ a:hover {
   color: #990000;  /* crimson */
 }
 a:hover::after {
-  width: 88%;
+  width: 85%;
 }
 
 /* World, National & International Days */
