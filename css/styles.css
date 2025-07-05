@@ -8,7 +8,7 @@ table {
   margin-left: auto; 
   width:70%; 
 }
-.month-header 
+.month-header {
   background-image:url("https://2026-mar.bauska.org/images/ufo-600x300.png");
   background-position:center center;
   background-repeat:no-repeat;
